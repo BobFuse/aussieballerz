@@ -59,6 +59,10 @@ ul#menu li {
 }
 
 
+.fb-page {
+    text-align: center;
+}
+
 .roundbox {
 	width: 80%;
 	max-width: 650px;
